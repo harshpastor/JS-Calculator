@@ -1,4 +1,4 @@
 # JS-Calculator
-Revising JS \n
+Revising JS <br/>
 LINK:
 https://harshpastor.github.io/JS-Calculator/
